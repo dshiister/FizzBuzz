@@ -2,7 +2,7 @@ public class Multiples {
 
     public static void main(String[] args) {
 
-        int count = 1;
+        int count = 0;
         int i = 1;
 
         while (i < 1000) {
